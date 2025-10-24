@@ -1,27 +1,52 @@
-📚 **Code-Knowledge-Log: C-plus-plus, Step by step.**
+# 📘 Code Knowledge Log — C++ Step by Step
 
-**Tier 0: Fundamental**<br>
-!- **Tier 0.1: Basic structure**<br>
-!- **Tier 0.2: Data Types and Variables**<br>
-!- **Tier 0.3: Constrol structures**<br>
+Welcome to the **C++ Learning Repository** — a structured, tier-based roadmap from basic syntax to advanced programming concepts.  
+Each level builds upon the previous one, helping you write efficient, modular, and professional-grade C++ code.
 
-**Tier 1: Abstraction and structure**<br>
-!- **Tier 1.1: Functions**<br>
-!- **Tier 1.2: Simple data structures**<br>
-!- **Tier 1.3: Pointers and memory managment**<br>
+---
 
-**Tier 2: OPP**<br>
-!- **Tier 2.1: Classes and objects**<br>
-!- **Tier 2.2: Pillars of OPP**<br>
+## 🧩 Tier 0: Fundamentals  
+> The foundation of all C++ programs — syntax, data, and logic.
 
-**Tier 3: Advanced concepts**<br>
-!- **Tier 3.1: Standard Templace Library**<br>
+| Subtier | Topic | Description |
+|:--------:|:------|:------------|
+| **0.1** | 🏗️ [Basic Structure](./Tier0/0.1_Basic_Structure) | Anatomy of a C++ program, `main()` function, and compilation process. |
+| **0.2** | 📦 [Data Types & Variables](./Tier0/0.2_Data_Types) | Primitive types, variable scope, and memory representation. |
+| **0.3** | 🔁 [Control Structures](./Tier0/0.3_Control_Structures) | Conditional statements and loops (`if`, `for`, `while`, `switch`). |
 
-🧭 **Repository Structure**<br>
-Each main directory corresponds to a programming language or major concept. Within each folder, you will typically find:<br>
+---
 
-`NOTES.md`: Detailed explanations of key syntax, concepts, and challenges encountered.<br>
-`Exercises/`: Small, focused code snippets used to practice specific features.<br>
-`Projects/`: Larger, integrated projects demonstrating combined knowledge.<br>
+## ⚙️ Tier 1: Abstraction & Structure  
+> Moving from simple statements to organized, reusable code.
 
-Thank you for visiting! Feel free to explore the code and notes.
+| Subtier | Topic | Description |
+|:--------:|:------|:------------|
+| **1.1** | 🧮 [Functions](./Tier1/1.1_Functions) | Modular code design with parameters, returns, and overloading. |
+| **1.2** | 📊 [Simple Data Structures](./Tier1/1.2_Simple_Data_Structures) | Working with arrays, strings, and `struct` types. |
+| **1.3** | 💾 [Pointers & Memory Management](./Tier1/1.3_Pointers) | Understanding addresses, dynamic allocation, and memory safety. |
+
+---
+
+## 🧱 Tier 2: Object-Oriented Programming  
+> Designing scalable software through encapsulation, inheritance, and polymorphism.
+
+| Subtier | Topic | Description |
+|:--------:|:------|:------------|
+| **2.1** | 🧩 [Classes & Objects](./Tier2/2.1_Classes_and_Objects) | Creating and managing user-defined types. |
+| **2.2** | 🏛️ [Pillars of OOP](./Tier2/2.2_OOP_Pillars) | Encapsulation, inheritance, and polymorphism in depth. |
+
+---
+
+## 🚀 Tier 3: Advanced Concepts  
+> Harnessing the power of modern C++ and its standard libraries.
+
+| Subtier | Topic | Description |
+|:--------:|:------|:------------|
+| **3.1** | 🧰 [Standard Template Library (STL)](./Tier3/3.1_STL) | Containers, iterators, and algorithms for efficient programming. |
+
+---
+
+## 🧭 Repository Structure
+
+Each main directory corresponds to a programming stage or concept. Inside each, you’ll typically find:
+
