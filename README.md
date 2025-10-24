@@ -21,7 +21,7 @@ Here are the technologies currently being documented, spanning from core backend
 🧭 **Repository Structure**<br>
 Each main directory corresponds to a programming language or major concept. Within each folder, you will typically find:<br>
 
-`NOTES.md`: Detailed explanations of key syntax, concepts, and challenges encountered.<br>
+`README.md`: Detailed explanations of key syntax, concepts, and challenges encountered.<br>
 `Exercises/`: Small, focused code snippets used to practice specific features.<br>
 `Projects/`: Larger, integrated projects demonstrating combined knowledge.<br>
 
