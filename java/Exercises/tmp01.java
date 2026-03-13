@@ -1,6 +1,3 @@
-// Facundo Ahumada, 21-869.762-3
-
-// Se utilizará inglés, para poder lograr y llevar una mejor práctica, pero los textos nuestros serán en español.
 public class tmp01 {
     // Creamos función donde se obtiene un número aleatorio entre x e y
     private static int getRandom(int x, int y) {
